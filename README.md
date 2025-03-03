@@ -1,7 +1,8 @@
 # XtraxtGuard
 
 A multi-functional Python-based toolkit featuring various combo extractors, proxy utilities, and Telegram bot integrations.
-![Combo Extractor Screenshot](scr/Screenshot (115).png)
+
+![XtraxtGuard](https://raw.githubusercontent.com/ak-alien/XtraxtGuard/refs/heads/main/src/Screenshot%20(115).png)
 
 ## Features
 
