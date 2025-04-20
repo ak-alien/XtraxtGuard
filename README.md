@@ -30,7 +30,7 @@ pip install requests pysocks tk
 
 ## Usage
 
-1. Download the latest version of **XtraxtGuard.exe**.
+1. Download the latest version of [**XtraxtGuard.exe**](https://github.com/ak-alien/XtraxtGuard/releases).
 2. Run the exe.
 3. Follow the on-screen prompts to select the desired tool.
 
